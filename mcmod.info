@@ -1,0 +1,19 @@
+[
+{
+"modid": "MiniIvNinjaMod",
+"name": "Mini: Shinobi Mod",
+"description": "Shinobi equipment! Teleport short distances, do a full 360 degree swing, and then vanish into the night!",
+"version": "1.0",
+"credits": "Created by Ivorius",
+"logoFile": "/gfx/ninjamod/logo.png",
+"mcversion": "1.6.4",
+"url": "http://www.minecraftforum.net/topic/2070084",
+"updateUrl": "",
+"authors": [ "Ivorius", "TripleHeadedSheep", "PBat" ],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+"mod_MinecraftForge"
+]
+}
+]
